@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository is part of a professional portfolio.
+This repository is part of a professional portfolio displaying my current coding project Run Buddy and future coding projects Pastel Puzzles, LED Wall, Calculator and Surf Report. It contains an About Me, Work and Contact Me section.
 
 
 ## Built With
